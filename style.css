@@ -1,3 +1,4 @@
 body {
 background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://github.com/Bright4586/final/blob/main/op.jpg?raw=true");
+background-repeat: repeat-x;
 }
